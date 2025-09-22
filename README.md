@@ -20,3 +20,5 @@ APPROACH:
 •	Deployment steps and instructions to enter data and accuracy of the model has been shared below
 •	Inference and Suggestions to HR (by predicting Attrition using the ML model) has been shared in a separate file
 
+MODEL EVALUATION:
+<img width="329" height="404" alt="image" src="https://github.com/user-attachments/assets/0a9c3473-b04a-4e96-878c-b239d8eecc5a" />
