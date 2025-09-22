@@ -1,10 +1,10 @@
-PROJECT: EMPLOYEE ATTRITION ANALYSIS & PREDICTION
+**PROJECT:** EMPLOYEE ATTRITION ANALYSIS & PREDICTION
 
-REQUIREMENTS:
+**REQUIREMENTS:**
 
 Please refer the document named “Emplyattrtn-prjrqrmnt” attached above.
 
-APPROACH:
+**APPROACH:**
 
 •	Cleaned data by looking for null, missing values and unknown values like Nan
 •	Identified the presence of any ordinal and categorical variables
@@ -20,5 +20,17 @@ APPROACH:
 •	Deployment steps and instructions to enter data and accuracy of the model has been shared below
 •	Inference and Suggestions to HR (by predicting Attrition using the ML model) has been shared in a separate file
 
-MODEL EVALUATION:
+**MODEL EVALUATION:**
+
 <img width="329" height="404" alt="image" src="https://github.com/user-attachments/assets/0a9c3473-b04a-4e96-878c-b239d8eecc5a" />
+
+**Streamlit App Deployment Instructions:
+**
+•	Open a new notebook in VS code or in Google colab
+•	Upload the given log_reg.pkl file in the same folder where the notebook is saved
+•	Run the cells to Install Streamlit, app.py and pyngrok in the notebook
+•	Run the ngrok authentication cell next
+•	Use or click the link given as Ngrok tunnel; Streamlit dashboard appears with the features
+•	Enter the values in the respective features as per the instruction given below and click Predict
+<img width="468" height="161" alt="image" src="https://github.com/user-attachments/assets/805c93fc-007e-45d1-9731-c5de8e68be23" />
+
